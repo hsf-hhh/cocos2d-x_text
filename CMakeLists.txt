@@ -25,7 +25,11 @@
 
 cmake_minimum_required(VERSION 3.6)
 
+<<<<<<< HEAD
 set(APP_NAME helloword)
+=======
+set(APP_NAME MyGame)
+>>>>>>> a2cc078670bdab1dea962761eaddf091bf3dfe8a
 
 project(${APP_NAME})
 
